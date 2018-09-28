@@ -1,5 +1,0 @@
-whatDo = input('What do you want to do?')
-tempLst = whatDo.split()
-print(tempLst[1:2])
-print(tempLst[1])
-print(tempLst[2])
